@@ -1,4 +1,4 @@
-utils/
+src/utils/
 .idea/
 
 pyvenv.cfg
